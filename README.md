@@ -1,18 +1,29 @@
-# Hi, I'm Gaurav Law
+# Hi, I'm Gaurav
 
-📍 Durham, NC &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/gaurav-law/)
+---
+
+### About me
+
+- Graduate Data Science student at Duke University, completed undergraduate at The Ohio State University in Data Analytics and Journalism
+- Projects completed in Deep Learning, Natural Language Processing, Data Engineering
+- Passion for sports analytics, projects and hackathons completed using NBA, NFL, college basketball, softball data
 
 ---
 
 ## Projects
 
-### Machine Learning, Data Engineering
+### NLP & Deep Learning
 
 | Project | Description
 |---|---|
 | [Early Text Modernization](https://github.com/glawb45/Data-Engineering-25) | NLP model and end-to-end pipeline for modernizing early English text |
 | [Vision Transformer Image-to-Text Generation](https://github.com/glawb45/deep_learning) | ViT and BLIP models trained on DiffusionDB dataset for automated caption generation|
 | [LLM Fine-Tuning: Drug-Drug Interaction](https://github.com/pb0104/Drug-Drug-Interaction-LLM/tree/main) | Fine-tuning MS Phi-2 using QLora to detect multi-drug interaction effects |
+
+### Data Engineering
+
+| Project | Description
+|---|---|
 | [SQL Guidebook](https://github.com/glawb45/ids706-data-engineering/tree/sql_guidebook) | Guide to database creation and SQL usage with NBA data|
 | [Apache Airflow DAG](https://github.com/glawb45/ids706-data-engineering/tree/airflow) | Defining an Airflow DAG performing end-to-end data pipelining |
 | [Apache Kafka](https://github.com/glawb45/ids706-data-engineering/tree/kafka) | Real-time streaming dashboard and platform generated from synthetic data |
