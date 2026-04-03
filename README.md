@@ -23,6 +23,16 @@
 
 | Project | Description
 |---|---|
-| [march_madness_data_viz](https://github.com/glawb45/march_madness_data_viz) | R Shiny heatmap displaying shooting efficiency at all three levels |
+| [March Madness Data Viz](https://github.com/glawb45/march_madness_data_viz) | R Shiny heatmap displaying shooting efficiency at all three levels |
 | [Web Scrapers](https://github.com/glawb45/Web-Scrapers) | Jupyter, R scripts designed to scrape popular sports data sources |
 | [Tennis Point Planning Domain](https://github.com/glawb45/Intelligent_Agents) | Tennis point planning strategy, including domain selection and STRIPS formalization |
+
+---
+
+## Tech Stack
+| Capability | Description
+|---|---|
+| Languages | Python · R · SQL · Java |
+| ML/AI | PyTorch · TensorFlow · scikit-learn · HuggingFace |
+| Data Engineering | PostgreSQL · Apache Spark · Kafka · Airflow |
+| Cloud Infrastructure | Docker · AWS Bedrock · S3 |
