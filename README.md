@@ -19,6 +19,7 @@
 | [Early Text Modernization](https://github.com/glawb45/Data-Engineering-25) | NLP model and end-to-end pipeline for modernizing early English text |
 | [Vision Transformer Image-to-Text Generation](https://github.com/glawb45/deep_learning) | ViT and BLIP models trained on DiffusionDB dataset for automated caption generation|
 | [LLM Fine-Tuning: Drug-Drug Interaction](https://github.com/pb0104/Drug-Drug-Interaction-LLM/tree/main) | Fine-tuning MS Phi-2 using QLora to detect multi-drug interaction effects |
+| [AI Trip Planer Agent](https://github.com/glawb45/Intelligent_Agents/tree/main/A3%20-%20LLM%20Agent) | LLM-based travel agent using web-scraping and APIs to get weather, location details and total cost|
 
 ### Data Engineering
 
