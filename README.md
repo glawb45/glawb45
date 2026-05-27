@@ -12,7 +12,7 @@
 
 ## Projects
 
-### NLP & Deep Learning
+### ML, NLP & Deep Learning
 
 | Project | Description
 |---|---|
@@ -20,20 +20,14 @@
 | [Vision Transformer Image-to-Text Generation](https://github.com/glawb45/deep_learning) | ViT and BLIP models trained on DiffusionDB dataset for automated caption generation|
 | [Early Text Modernization](https://github.com/glawb45/Data-Engineering-25) | NLP model and end-to-end pipeline for modernizing early English text |
 | [LLM Fine-Tuning: Drug-Drug Interaction](https://github.com/pb0104/Drug-Drug-Interaction-LLM/tree/main) | Fine-tuning MS Phi-2 using QLora to detect multi-drug interaction effects |
+| [Global Recession Predictor](https://github.com/tina-ytyuan/SP26_IDS705_ML_Project) | Predicting next-year recession risk across over 200 economies based on global macroeconomic indicators from the World Bank, IMF, and OECD|
+
 
 ### Reinforcement Learning
 
 | Project | Description
 |---|---|
 | [RL for Codenames](https://github.com/pb0104/Codenames-Spymaster-RL) | Attempting to solve the RL CodeNames problem by stacking optimization methods including SAC, HER, BC pretraining, reward shaping|
-
-
-### Machine Learning
-
-| Project | Description
-|---|---|
-| [Global Recession Predictor](https://github.com/tina-ytyuan/SP26_IDS705_ML_Project) | Predicting next-year recession risk across over 200 economies based on global macroeconomic indicators from the World Bank, IMF, and OECD|
-
 
 
 ### Data Engineering
