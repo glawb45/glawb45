@@ -25,7 +25,15 @@
 
 | Project | Description
 |---|---|
-| [RL for CodeNames](https://github.com/pb0104/Codenames-Spymaster-RL) | Attempting to solve the RL CodeNames problem by stacking optimization methods including SAC, HER, BC pretraining, reward shaping|
+| [RL for Codenames](https://github.com/pb0104/Codenames-Spymaster-RL) | Attempting to solve the RL CodeNames problem by stacking optimization methods including SAC, HER, BC pretraining, reward shaping|
+
+
+### Machine Learning
+
+| Project | Description
+|---|---|
+| [Global Recession Predictor](https://github.com/tina-ytyuan/SP26_IDS705_ML_Project) | Predicting next-year recession risk across over 200 economies based on global macroeconomic indicators from the World Bank, IMF, and OECD|
+
 
 
 ### Data Engineering
@@ -42,6 +50,7 @@
 
 | Project | Description
 |---|---|
+| [NCAA-to-NBA Causal Inference](https://github.com/tina-ytyuan/SP26_IDS701_UDS_Project) | Used propensity-score matching to estimate the causal effect of playing a second year of college basketball on early NBA production |
 | [March Madness Data Viz](https://github.com/glawb45/march_madness_data_viz) | R Shiny heatmap displaying shooting efficiency at all three levels |
 | [Web Scrapers](https://github.com/glawb45/Web-Scrapers) | Jupyter, R scripts designed to scrape popular sports data sources |
 | [Tennis Point Planning Domain](https://github.com/glawb45/Intelligent_Agents) | Tennis point planning strategy, including domain selection and STRIPS formalization |
