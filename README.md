@@ -5,7 +5,7 @@
 ### About me
 
 - Graduate Data Science student at Duke University, completed undergraduate at The Ohio State University in Data Analytics and Journalism
-- Projects completed in Deep Learning, Natural Language Processing, Data Engineering
+- Projects completed in Deep Learning, Natural Language Processing, Reinforcement Learning, Data Engineering
 - Passion for sports analytics, projects and hackathons completed using NBA, NFL, college basketball, softball data
 
 ---
