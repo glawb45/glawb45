@@ -22,12 +22,18 @@
 | [LLM Fine-Tuning: Drug-Drug Interaction](https://github.com/pb0104/Drug-Drug-Interaction-LLM/tree/main) | Fine-tuning MS Phi-2 using QLora to detect multi-drug interaction effects |
 | [Global Recession Predictor](https://github.com/tina-ytyuan/SP26_IDS705_ML_Project) | Predicting next-year recession risk across over 200 economies based on global macroeconomic indicators from the World Bank, IMF, and OECD|
 
+### Computer Vision
+
+| Project | Description
+|---|---|
+| [Receipt-to-Card Recommendation Agent](https://github.com/aeshagandhi/Credit-Card-Agent) | Computer vision agent using PaddleOCR, Tesseract and the OpenAI API to turn receipt images into spending profiles and credit card recommendations|
+
 
 ### Reinforcement Learning
 
 | Project | Description
 |---|---|
-| [RL for Codenames](https://github.com/pb0104/Codenames-Spymaster-RL) | Attempting to solve the RL CodeNames problem by stacking optimization methods including SAC, HER, BC pretraining, reward shaping|
+| [Credit Card Agent](https://github.com/pb0104/Codenames-Spymaster-RL) | Attempting to solve the RL CodeNames problem by stacking optimization methods including SAC, HER, BC pretraining, reward shaping|
 
 
 ### Data Engineering
