@@ -33,7 +33,7 @@
 
 | Project | Description
 |---|---|
-| [Credit Card Agent](https://github.com/pb0104/Codenames-Spymaster-RL) | Attempting to solve the RL CodeNames problem by stacking optimization methods including SAC, HER, BC pretraining, reward shaping|
+| [RL for Codenames Spymaster](https://github.com/pb0104/Codenames-Spymaster-RL) | Attempting to solve the RL CodeNames problem by stacking optimization methods including SAC, HER, BC pretraining, reward shaping|
 
 
 ### Data Engineering
