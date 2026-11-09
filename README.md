@@ -27,7 +27,8 @@
 
 | Project | Description
 |---|---|
-| [Receipt-to-Card Recommendation Agent](https://github.com/aeshagandhi/Credit-Card-Agent) | Computer vision agent using PaddleOCR, Tesseract and the OpenAI API to turn receipt images into spending profiles and credit card recommendations|
+| [Disaster Preparedness Multi-Agent Framework](https://github.com/pb0104/StormAhead) | Multi-agent disaster preparedness console using real-world data and LLM and voice agents to predict which areas will be affected and plan where to send resources |
+| [Receipt-to-Card Recommendation Agent](https://github.com/aeshagandhi/Credit-Card-Agent) | Computer vision agent using PaddleOCR, Tesseract and the OpenAI API to turn receipt images into spending profiles and credit card recommendations |
 
 
 ### Reinforcement Learning
