@@ -22,6 +22,7 @@
 | [LLM Fine-Tuning: Drug-Drug Interaction](https://github.com/pb0104/Drug-Drug-Interaction-LLM/tree/main) | Fine-tuning MS Phi-2 using QLora to detect multi-drug interaction effects |
 | [Global Recession Predictor](https://github.com/tina-ytyuan/SP26_IDS705_ML_Project) | Predicting next-year recession risk across over 200 economies based on global macroeconomic indicators from the World Bank, IMF, and OECD|
 
+
 ### Computer Vision
 
 | Project | Description
@@ -61,6 +62,6 @@
 | Capability | Description
 |---|---|
 | Languages | Python · R · SQL · Java |
-| ML/AI | PyTorch · TensorFlow · scikit-learn · HuggingFace |
+| ML/AI | PyTorch · TensorFlow · scikit-learn · HuggingFace · RAG · RecSys |
 | Data Engineering | PostgreSQL · Apache Spark · Kafka · Airflow |
-| Cloud Infrastructure | Docker · AWS Bedrock · S3 |
+| Cloud Infrastructure | Docker · AWS · S3 |
