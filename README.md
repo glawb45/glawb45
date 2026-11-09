@@ -64,4 +64,4 @@
 | Languages | Python · R · SQL · Java |
 | ML/AI | PyTorch · TensorFlow · scikit-learn · HuggingFace · RAG · RecSys |
 | Data Engineering | PostgreSQL · Apache Spark · Kafka · Airflow |
-| Cloud Infrastructure | Docker · AWS · S3 |
+| Cloud Infrastructure | Docker · AWS · Azure · GCP · Databricks · S3 |
